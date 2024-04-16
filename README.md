@@ -1,2 +1,0 @@
-# PurogenicBG
-Puro theme
